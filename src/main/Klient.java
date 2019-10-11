@@ -14,7 +14,7 @@ public class Klient {
 
     BufferedReader bufferedReader;
     String name;
-
+//
     public static void main(String[] args) {
         Klient klient = new Klient();
         klient.startKlient();
